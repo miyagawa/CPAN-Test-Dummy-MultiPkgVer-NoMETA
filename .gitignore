@@ -1,0 +1,6 @@
+/CPAN-Test-Dummy-MultiPkgVer-NoMETA-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
