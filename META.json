@@ -46,6 +46,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/miyagawa/CPAN-Test-Dummy-MultiPkgVer-NoMETA/issues"
+      },
+      "homepage" : "https://github.com/miyagawa/CPAN-Test-Dummy-MultiPkgVer-NoMETA",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/miyagawa/CPAN-Test-Dummy-MultiPkgVer-NoMETA.git",
+         "web" : "https://github.com/miyagawa/CPAN-Test-Dummy-MultiPkgVer-NoMETA"
+      }
+   },
    "version" : "0.01"
 }
 
